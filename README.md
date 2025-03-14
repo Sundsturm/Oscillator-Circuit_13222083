@@ -5,4 +5,7 @@ This is a project regarding analogue circuit design and development, using polar
 
 The .asc file can be simulated on LTspice, but the simulation result was different than the analogue circuit testing (See report).
 
+There is a Google Sheet file that is used for fine tuning the circuit with LTspice (Sheet 1), calculating the quality of the oscillator circuit (Sheet 2), and parameters of the BJT (Sheet 3). Here's the link to the Google Sheet:
+https://docs.google.com/spreadsheets/d/1RIXOSyC-4Z-5Sblfw5WSRlu21g_U1QyQU-clNX8T4AM/edit?usp=sharing
+
 See further details on report (The report is in Indonesian).
